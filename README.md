@@ -31,5 +31,5 @@ This repository provides a beginner-friendly **Pandas tutorial** with practical 
 
 ### 5. Data Visualization
 - Plotting with Pandas (`plot`, `hist`, `boxplot`)
-- Integration with **Matplotlib** and **Seaborn**
+- Integration with **Matplotlib** and **Seaborn** 
 
